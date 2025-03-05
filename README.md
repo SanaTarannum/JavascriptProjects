@@ -1,2 +1,2 @@
-# JavascriptProject simple calcaulator
+# simple calcaulator
 
